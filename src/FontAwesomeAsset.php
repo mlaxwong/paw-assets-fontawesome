@@ -1,5 +1,5 @@
 <?php
-namespace paw\assets\fontawesome;
+namespace paw\assets;
 
 use yii\web\AssetBundle;
 

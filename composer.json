@@ -10,7 +10,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "paw\\assets\\fontawesome\\": "src/"
+            "paw\\assets\\": "src/"
         }
     },
     "require": {
