@@ -1,0 +1,19 @@
+{
+    "name": "mlaxwong/paw-assets-fontawesome",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mlax Wong",
+            "email": "mlaxwong@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "paw\\assets\\fontawesome\\": "src/"
+        }
+    },
+    "require": {
+        "npm-asset/font-awesome": "^5.8"
+    }
+}
